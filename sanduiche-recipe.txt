@@ -6,6 +6,6 @@
 
 \f0\fs24 \cf0 Sanduiche:\
 \
-1 - P\'e3o\
+2 - P\'e3o\
 2 - Presunto\
 3 - Queijo}
